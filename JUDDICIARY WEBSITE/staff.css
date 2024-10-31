@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+
+}
+body{
+  background: seagreen;
+
+}
+h1{
+  font-size: 60px;
+ text-align: center;
+}
+p{
+ color: whitesmoke;
+ font-size: 30px;
+
+}
+li{
+text-align: center;
+display: block;
+margin: auto;
+text-decoration: solid;
+}

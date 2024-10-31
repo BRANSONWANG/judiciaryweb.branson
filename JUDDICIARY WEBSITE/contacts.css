@@ -1,0 +1,42 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  overflow-y: scroll;
+  background-color: rgba(0, 128, 0, 0.171);
+  font-family: poppins,sans-serif;
+}
+contact-box{
+  background:green;
+  display: inline-block;
+align-items: center;
+}
+
+.contact-left{
+  flex-basis: 60%;
+  padding: 40px 60px;
+  font-size: larger;
+  color: red;
+  text-align: center;
+
+}
+.container p{
+margin-top: 40px;
+border-radius: 10px;
+}
+.input-row{
+background: #b8980c;
+display: block;
+flex-direction: column;
+padding: 2vw 4vw;
+width: 90%;
+max-width: 400px;
+margin: auto;
+border-radius: 10px;
+
+}
+.input-group{
+  margin-bottom: 10px;
+}

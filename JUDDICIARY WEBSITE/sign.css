@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-image:url(web.png);
+  background-size: cover;
+}
+.wrapper{
+  background:rgba(255, 255, 0, 0.664);
+  position: relative;
+  width: 400px;
+  height: 350px;
+  border-radius: 20px;
+  display: block;
+  color: black;
+  margin: auto;
+  margin-top: 140px;
+  padding-top: 50px;
+  border: 1px solid rgba(255, 255, 0, 0.664);
+}
+.wrapper .input-box{
+  margin: 30px 0;
+}
+body p{
+  font-size: 35px;
+  text-align: center;
+}
